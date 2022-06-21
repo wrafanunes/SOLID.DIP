@@ -13,3 +13,6 @@ C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.DIP\SOLID.DIP\obj\Debug\net
 C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.DIP\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.pdb
 C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.DIP\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.genruntimeconfig.cache
 C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.DIP\SOLID.DIP\obj\Debug\net6.0\ref\SOLID.DIP.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.DIP\SOLID.DIP\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.DIP\SOLID.DIP\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.DIP\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.csproj.CopyComplete

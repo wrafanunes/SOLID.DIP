@@ -1,11 +1,11 @@
 ﻿namespace SOLID.DIP
 {
     //Logger é um low-level module, pois não depende de nenhuma classe
-    internal class Logger
+    public class Logger : ILogger
     {
-        internal void Log (string v)
+        public void Log (string v)
         {
-            Console.WriteLine ($"Write to Console: {v}");
+            Console.WriteLine($"Write to Console: {v}");
         }
     }
 }
