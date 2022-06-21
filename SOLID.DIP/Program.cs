@@ -2,7 +2,9 @@
 using SOLID.DIP;
 //Program é um high-level module, que depende de Person e Chore
 
-Person owner = new()
+/*Uma interface para Person foi criada, no entanto, pode-se observar que a classe Program ainda depende de Person
+*(new Person), portanto, a aplicação ainda viola o DIP*/
+IPerson owner = new Person
 {
     FirstName = "Wilson",
     LastName = "Nunes",

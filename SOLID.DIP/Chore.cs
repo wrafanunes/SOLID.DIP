@@ -8,9 +8,9 @@ namespace SOLID.DIP
 {
     internal class Chore
     {
-        private Person? _owner;
+        private IPerson? _owner;
         public string? ChoreName { get; set; }
-        public Person Owner
+        public IPerson Owner
         {
             get => _owner ??= new Person();
             set => _owner = value ?? throw new ArgumentNullException(nameof(value));
