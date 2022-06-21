@@ -21,6 +21,7 @@ namespace SOLID.DIP
 
         internal void CompleteChore ()
         {
+            //Chore é um high-level module, que depende De Logger e Emailer
             IsComplete = true;
             Logger logger = new();
             logger.Log($"Completed {ChoreName}");

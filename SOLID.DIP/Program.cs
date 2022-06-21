@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using SOLID.DIP;
+//Program é um high-level module, que depende de Person e Chore
 
 Person owner = new()
 {

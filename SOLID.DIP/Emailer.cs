@@ -1,5 +1,6 @@
 ﻿namespace SOLID.DIP
 {
+    //Emailer é um low-level module, pois não depende de nenhuma classe
     internal class Emailer
     {
         internal void SendEmail (Person owner, string v)
